@@ -1,0 +1,5 @@
+openai==1.2
+textattack==0.3.10
+torch==2.4.0
+numpy==1.26.4
+pandas
